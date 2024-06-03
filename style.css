@@ -11,10 +11,8 @@
     background-image: url(bg-1.png) , url(bg-2.png);
     background-repeat: no-repeat , no-repeat;
     background-position: center , bottom left;
-    background-size: auto 400px , 200px 200px;
-    height: 550px;
-
-    
+    background-size: 100px 400px , 200px 200px;
+    height: 550px; 
 }
 .buy-now{
     border: none;
