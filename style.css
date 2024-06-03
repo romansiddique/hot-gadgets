@@ -7,9 +7,21 @@
 .top-manue{
    margin-top: 30px;
 }
-.banner-bg1{
-    background-color: rgb(246, 246, 218);
+.banner-bg2{
+    background-image: url(bg-1.png) , url(bg-2.png);
+    background-repeat: no-repeat , no-repeat;
+    background-position: center , bottom left;
+    background-size: auto 400px , 200px 200px;
+    height: 600px;
+
+    
 }
+/* .banner-bg1{
+    background-image: url(bg-2.png);
+    background-repeat: no-repeat;
+    background-size: 200px 200px;
+    background-position: bottom left;
+} */
 .buy-now{
     border: none;
     background-color: black;
@@ -60,4 +72,7 @@
     margin-bottom: 50px;
     font-weight: 700;
     font-family: 'Times New Roman', Times, serif;
+}
+#product{
+    margin-top: 90px;
 }
