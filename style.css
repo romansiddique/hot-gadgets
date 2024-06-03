@@ -49,7 +49,7 @@
    width: fit-content;
 }
 .footer{
-    background-color: rgb(53, 58, 74);
+    background-color: hsl(188, 44%, 35%);
     color: white;
     height: 300px;
 }
